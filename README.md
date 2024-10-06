@@ -2,6 +2,8 @@
 
 **Disclaimer: This project is for educational purposes only. I do not encourage cheating or malicious behavior in any form. The GUI features included are for demonstration and learning about GUI development in Roblox.**
 
+![Project Image](https://raw.githubusercontent.com/kirkiimad-nuker/kirkiimad-nuker-v1/main/IMG_2777.jpeg)
+
 This project features a draggable GUI for Roblox, complete with various interactive buttons that execute different functions. The GUI is designed to be user-friendly and visually appealing, incorporating rounded corners and a logo.
 
 ## Features
